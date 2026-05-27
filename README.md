@@ -1,6 +1,7 @@
 ## Hi there 👋
+                            **I'm Tammana, an aspiring Bioinformatician**
 
-<# 💫 About Me:
+💫 About Me:
 I am currently learning tools that support the working of a bioinformatician<br>I have done a few projects such as DNA base pair counter<br>I am learning python<br>I am also learning R language<br>I am building a DNA tool kit for future use.<br>I also built a Clinical Trial Assistant that answers the question regarding any protocol in every step of the trial. 
 
 
